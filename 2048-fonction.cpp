@@ -325,6 +325,7 @@ Plateau deplacementAleatoire(Plateau plateau1){
     }
     return plateau1;
 }
+//ia
 void iaplateau(Plateau plateau1) {
     double x;
     cout << "choissisez le niveau du bot de 1 a 10"<<endl;
